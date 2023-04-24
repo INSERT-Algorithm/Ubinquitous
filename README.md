@@ -1,3 +1,5 @@
 ## Ubinquitous
 
-화이티이이이잉이이ㅣ!!!!!!! 정처기만 따고 바로할거임!!
+영차영차
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ubinquitous)](https://solved.ac/ubinquitous/)
